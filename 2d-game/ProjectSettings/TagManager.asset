@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - coin
+  - monster
+  - player
+  - Wall
+  - CoinPicker
+  - win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - backgraond
+  - coin
+  - ground
+  - wall
+  - coinPicker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2911673849
+    locked: 0
+  - name: Trees
+    uniqueID: 4144459323
+    locked: 0
+  - name: leftarm
+    uniqueID: 2348142531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: eye
+    uniqueID: 144970599
+    locked: 0
+  - name: water
+    uniqueID: 2271295183
+    locked: 0
